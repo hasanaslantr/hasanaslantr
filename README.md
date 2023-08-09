@@ -27,6 +27,10 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
 ![Data Access](https://img.shields.io/badge/Data%20Access-%234169E1?style=plastic)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)
+
+
 # 📊 GitHub Stats: 
 
  ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical)
@@ -37,5 +41,7 @@ Hi there! I'm Hasan ASLAN👋<br>
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
+  [![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/byhasanaslan)
+
 📍 Adres: Kayseri/Türkiye
  
