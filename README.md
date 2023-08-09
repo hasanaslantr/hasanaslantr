@@ -19,7 +19,7 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  
@@ -29,7 +29,13 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![Data Access](https://img.shields.io/badge/Data%20Access-%234169E1?style=plastic)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)
-
+![OOP](https://img.shields.io/badge/OOP-%23FF5733?style=plastic)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23333333?style=plastic)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%2300BFFF?style=plastic)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-005571?style=plastic)
+![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-%231F3B5E?style=plastic)
+![DevExpress](https://img.shields.io/badge/DevExpress-1C4B91?style=plastic)
 
 # 📊 GitHub Stats: 
 
