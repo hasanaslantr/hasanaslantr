@@ -48,7 +48,7 @@ Pioneering a professional journey in software development, I excel in crafting i
   - **Oto Servis**
   Açıklama: Autoservice vehicle tracking system
   Teknolojiler: C# Windows Forms, Devexpress, FireBird DataBase
- <br>
+ 
   ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
