@@ -54,22 +54,12 @@ Hi there! I'm Hasan ASLAN👋<br>
 
 ## Projeler
 
-- **Proje 1**
-  Açıklama: Kısa açıklama veya proje hedefleri.
-  Teknolojiler: Kullanılan programlama dilleri, kütüphaneler ve araçlar.
-  ![Proje 1](https://img.shields.io/badge/Proje%201-%23007ACC?style=plastic)
+- **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
+  Teknolojiler: AspNet Core 6.0, MsSql, Bootstrap
 
-- **Proje 2**
-  Açıklama: Kısa açıklama veya proje hedefleri.
-  Teknolojiler: Kullanılan programlama dilleri, kütüphaneler ve araçlar.
-  ![Proje 2](https://img.shields.io/badge/Proje%202-%23007ACC?style=plastic)
-
-
-
-
-
-
-
+- **Oto Servis**
+  Açıklama: Autoservice vehicle tracking system
+  Teknolojiler: C# Windows Forms, Devexpress, FireBird DataBase
  
   ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
