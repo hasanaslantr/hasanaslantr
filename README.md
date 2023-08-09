@@ -50,7 +50,7 @@ Pioneering a professional journey in software development, I excel in crafting i
   Teknolojiler: C# Windows Forms, Devexpress, FireBird DataBase
 
  ## 📞 Contact me !!!
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
   [![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/byhasanaslan)
