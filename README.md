@@ -17,6 +17,7 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
@@ -26,8 +27,6 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
-![Data Access](https://img.shields.io/badge/Data%20Access-%234169E1?style=plastic)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%23FF5733?style=plastic)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23333333?style=plastic)
@@ -36,28 +35,18 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![Web API](https://img.shields.io/badge/Web%20API-005571?style=plastic)
 ![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-%231F3B5E?style=plastic)
 ![DevExpress](https://img.shields.io/badge/DevExpress-1C4B91?style=plastic)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobe-photoshop&logoColor=white)
 
 # 📊 GitHub Stats: 
  ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical) 
 
 ## Çalışma Kariyeri
 
-- **Şirket A** (Mayıs 2020 - Şubat 2022)
+- **Tema Yazılım** (Aralık 2021 - Ağustos 2023)
   ![Software Developer](https://img.shields.io/badge/Software%20Developer-%231F3B5E?style=plastic)
-  - Yeni özelliklerin geliştirilmesi ve mevcut kod tabanının bakımı.
-  - Teknik tasarım ve kod incelemeleri.
-  
-- **Şirket B** (Mart 2022 - Şu Anda)
-  ![Senior Software Engineer](https://img.shields.io/badge/Senior%20Software%20Engineer-%231F3B5E?style=plastic)
-  - Büyük ölçekli projelerde liderlik yapma ve ekip yönetimi.
-  - Veritabanı tasarımı ve optimizasyonu.
-
-## Projeler
-
-- **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
+  - **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
   Teknolojiler: AspNet Core 6.0, MsSql, Bootstrap
-
-- **Oto Servis**
+  - **Oto Servis**
   Açıklama: Autoservice vehicle tracking system
   Teknolojiler: C# Windows Forms, Devexpress, FireBird DataBase
  
