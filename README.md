@@ -24,9 +24,13 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  
 # 📊 GitHub Stats: 
 
-  ## 💰Contact me to develop custom software !!
+ ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical)
+
+
+
+  ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
-[![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
-
+  [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
+📍 Adres: Kayseri/Türkiye
  
