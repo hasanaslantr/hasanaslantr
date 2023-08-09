@@ -40,6 +40,7 @@ Hi there! I'm Hasan ASLAN👋<br>
 # 📊 GitHub Stats: 
 
  ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical)
+ ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaslantr&layout=compact)
 
 
 
