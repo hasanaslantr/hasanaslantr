@@ -38,12 +38,39 @@ Hi there! I'm Hasan ASLAN👋<br>
 ![DevExpress](https://img.shields.io/badge/DevExpress-1C4B91?style=plastic)
 
 # 📊 GitHub Stats: 
+ ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical) 
 
- ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical)
- ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaslantr&layout=compact)
+## Çalışma Kariyeri
+
+- **Şirket A** (Mayıs 2020 - Şubat 2022)
+  ![Software Developer](https://img.shields.io/badge/Software%20Developer-%231F3B5E?style=plastic)
+  - Yeni özelliklerin geliştirilmesi ve mevcut kod tabanının bakımı.
+  - Teknik tasarım ve kod incelemeleri.
+  
+- **Şirket B** (Mart 2022 - Şu Anda)
+  ![Senior Software Engineer](https://img.shields.io/badge/Senior%20Software%20Engineer-%231F3B5E?style=plastic)
+  - Büyük ölçekli projelerde liderlik yapma ve ekip yönetimi.
+  - Veritabanı tasarımı ve optimizasyonu.
+
+## Projeler
+
+- **Proje 1**
+  Açıklama: Kısa açıklama veya proje hedefleri.
+  Teknolojiler: Kullanılan programlama dilleri, kütüphaneler ve araçlar.
+  ![Proje 1](https://img.shields.io/badge/Proje%201-%23007ACC?style=plastic)
+
+- **Proje 2**
+  Açıklama: Kısa açıklama veya proje hedefleri.
+  Teknolojiler: Kullanılan programlama dilleri, kütüphaneler ve araçlar.
+  ![Proje 2](https://img.shields.io/badge/Proje%202-%23007ACC?style=plastic)
 
 
 
+
+
+
+
+ 
   ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+905459063400)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
