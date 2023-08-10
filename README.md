@@ -38,23 +38,10 @@ Pioneering a professional journey in software development, I excel in crafting i
 ![DevExpress](https://img.shields.io/badge/DevExpress-1C4B91?style=plastic)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobe-photoshop&logoColor=white)
 <br>
-# 📊 GitHub Stats: 
- ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical) 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaslantr&" alt="hasanaslantr" /></p>
-<br>
-## Çalışma Kariyeri
-- **Tema Yazılım** (Aralık 2021 - Ağustos 2023)
-  ![Software Developer](https://img.shields.io/badge/Software%20Developer-%231F3B5E?style=plastic)
-  - **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
-  Teknolojiler: AspNet Core 6.0, MsSql, Bootstrap
-  - **Oto Servis**
-  Açıklama: Autoservice vehicle tracking system
-  Teknolojiler: C# Windows Forms, Devexpress, FireBird DataBase
-
- ## 📞 Contact me !!!
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
-  [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
-  [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
- 📍 Adres: Türkiye/Kayseri
+# 📊 GitHub Stats:  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaslantr&show_icons=true&locale=en&layout=compact" alt="hasanaslantr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&locale=en" alt="hasanaslantr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaslantr&" alt="hasanaslantr" /></p>
+ 
  
  
