@@ -98,16 +98,13 @@ Pioneering a professional journey in software development, I excel in crafting i
 - **Net.Calculations** [![NuGet View](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/packages/Net.Calculations)
 - **DotNetCleanCode** [![NuGet View](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/packages/DotNetCleanCode)
 
-
-
-  
 ## 📦 My Certificates
 - **BTK ACADEMY C#** 
-   - Qualification Identity : XbpTGvda2  [View]([https://www.example.com/inquire](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=XbpTGvda2))
+   - Qualification Identity : XbpTGvda2 [View](https://www.example.com/inquire](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=XbpTGvda2))
 - **BTK ACADEMY PHP** 
-   - Qualification Identity : JoNfPBYP8  [View]([https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfPBYP8))
+   - Qualification Identity : JoNfPBYP8 [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfPBYP8)
 - **BTK ACADEMY CSS** 
-   - Qualification Identity : ep9o2Z1a  [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=ep9o2Z1a))
+   - Qualification Identity : ep9o2Z1a  [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=ep9o2Z1a)
   
 ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
