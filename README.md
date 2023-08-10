@@ -4,8 +4,7 @@
 Hi there! I'm Hasan ASLAN👋<br>
 Pioneering a professional journey in software development, I excel in crafting innovative solutions through meticulous coding. Adept at leveraging cutting-edge technologies, my commitment to continuous improvement drives impactful contributions within the dynamic realm of software engineering.
 <br>
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hasanaslan.com)
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byhasanaslan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanaslantr)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_HasanAslan_)
