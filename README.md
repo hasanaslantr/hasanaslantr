@@ -11,7 +11,7 @@ Pioneering a professional journey in software development, I excel in crafting i
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_HasanAslan_)
  [![NuGet Packets](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/byhasanaslan)
 <br>
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
@@ -38,12 +38,12 @@ Pioneering a professional journey in software development, I excel in crafting i
 ![DevExpress](https://img.shields.io/badge/DevExpress-1C4B91?style=plastic)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobe-photoshop&logoColor=white)
 <br>
-# 📊 GitHub Stats:  
+## 📊 GitHub Stats:  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaslantr&show_icons=true&locale=en&layout=compact" alt="hasanaslantr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&locale=en" alt="hasanaslantr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaslantr&" alt="hasanaslantr" /></p>
 
- ## 💼 Çalışma Kariyeri
+ ## 💼 Work Experience
 - **Tema Yazılım** (December 2021 - August 2023)
   ![Software Developer](https://img.shields.io/badge/Software%20Developer-%231F3B5E?style=plastic)
   - **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
@@ -69,9 +69,23 @@ Pioneering a professional journey in software development, I excel in crafting i
   - **ErpMailsIntegration**
   Explanation: Mail integration to Erp Program
   Technologies: C# Windows Service, FireBird DataBase, Mails Net
- - **ErpVirtualCentral**
+  - **ErpVirtualCentral**
   Explanation: Sanal Santral and Verimor Api My project I developed using
   Technologies: C# Windows Service, FireBird DataBase, Mails Net
+
+## 💻 Skills
+- ![.NET Developer](https://img.shields.io/badge/.NET%20Developer-%235C2D91?style=plastic)
+  (4 Years)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic)
+  and ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=plastic) 
+  (1.5 Years)
+- Database Management: ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927?style=plastic), 
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=plastic), 
+  ![Firebird](https://img.shields.io/badge/Firebird-%2307405e?style=plastic) 
+  (4 Years)
+- Web Development: ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=plastic), 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=plastic) 
+  (2.5 Years)
 
 ## 📚 Education
 - **Anadolu University YBS** (October 2022 - Continues) 🎓 Bachelor's Degree 
