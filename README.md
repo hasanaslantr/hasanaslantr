@@ -100,7 +100,7 @@ Pioneering a professional journey in software development, I excel in crafting i
 
 ## 📦 My Certificates
 - **BTK ACADEMY C#** 
-   - Qualification Identity : XbpTGvda2 [View](https://www.example.com/inquire](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=XbpTGvda2))
+   - Qualification Identity : XbpTGvda2 [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=XbpTGvda2)
 - **BTK ACADEMY PHP** 
    - Qualification Identity : JoNfPBYP8 [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfPBYP8)
 - **BTK ACADEMY CSS** 
