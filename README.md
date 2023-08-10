@@ -54,10 +54,33 @@ Pioneering a professional journey in software development, I excel in crafting i
   - **NetsimToDino**
   Explanation: Integration from Netsim Erp Program to Dinosoft Erp Program
   Technologies: C# Windows Service, FireBird DataBase and MsSql DataBase
+  - **ErpPivot**
+  Explanation: Making Profit and Loss Analysis in Erp Programs
+  Technologies: C# Windows Form,Devexpress Pivot, FireBird DataBase
+  - **ErpToExcel**
+  Explanation: Transferring data from Excel to Erp Program
+  Technologies: C# Windows Form,Devexpress, FireBird DataBase
+  - **ErpToXml**
+  Explanation: Transferring data from xml to Erp Program
+  Technologies: C# Windows Form,Devexpress, FireBird DataBase
+  - **ErpSmsIntegration**
+  Explanation: Sms integration to Erp Program
+  Technologies: C# Windows Service, FireBird DataBase, Sms Api
+  - **ErpMailsIntegration**
+  Explanation: Mail integration to Erp Program
+  Technologies: C# Windows Service, FireBird DataBase, Mails Net
+ - **ErpVirtualCentral**
+  Explanation: Sanal Santral and Verimor Api My project I developed using
+  Technologies: C# Windows Service, FireBird DataBase, Mails Net
+
+## 📚 Education
+- **Anadolu University YBS** (October 2022 - Continues) 🎓 Bachelor's Degree 
+- **Hatay Mustafa Kemal University Computer Programming** (September 2019 - June 2021) 🎓 Associate's Degree
 ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
- 📍 Adres: Türkiye/Kayseri
+   <br>
+ 📍 Adres: Türkiye/Hatay-Kayseri
  
  
