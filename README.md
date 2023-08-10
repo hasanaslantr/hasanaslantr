@@ -9,6 +9,7 @@ Pioneering a professional journey in software development, I excel in crafting i
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byhasanaslan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanaslantr)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_HasanAslan_)
+ [![NuGet Packets](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/byhasanaslan)
 <br>
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
@@ -39,6 +40,7 @@ Pioneering a professional journey in software development, I excel in crafting i
 <br>
 # 📊 GitHub Stats: 
  ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hasanaslantr&show_icons=true&theme=radical) 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaslantr&" alt="hasanaslantr" /></p>
 <br>
 ## Çalışma Kariyeri
 - **Tema Yazılım** (Aralık 2021 - Ağustos 2023)
@@ -53,8 +55,6 @@ Pioneering a professional journey in software development, I excel in crafting i
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hasanaslan.com)
-  [![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/byhasanaslan)
-
  📍 Adres: Türkiye/Kayseri
  
  
