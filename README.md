@@ -106,6 +106,8 @@ Pioneering a professional journey in software development, I excel in crafting i
    - Qualification Identity : ep9o2Z1a  [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=ep9o2Z1a)
 - **BTK ACADEMY Git & GitHub** 
    - Qualification Identity : eK1hypZzjB  [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=eK1hypZzjB)
+- **BTK ACADEMY API & API Test** 
+   - Qualification Identity : eK1hypZzjB  [View](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=mKEhvxpy8O) 
 ## 📞 Contact me !!!
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905459063400?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋)
   [![hasanaslan.com](https://img.shields.io/badge/Web%20Sitesi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hasanaslan.com)
